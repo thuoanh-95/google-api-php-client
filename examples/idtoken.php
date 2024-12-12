@@ -1,4 +1,4 @@
-<?php nguyên 
+<?php
 /*
  * Copyright 2011 Google Inc.
  *
